@@ -1,6 +1,6 @@
 {
   "name": "@picryl/react-recaptcha",
-  "version": "2.3.12",
+  "version": "2.3.13",
   "description": "A react.js reCAPTCHA for Google",
   "main": "dist/react-recaptcha.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/appleboy/react-recaptcha.git"
+    "url": "https://github.com/picryl/react-recaptcha.git"
   },
   "keywords": [
     "react",
@@ -28,9 +28,9 @@
   "author": "Bo-Yi Wu",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/appleboy/react-recaptcha/issues"
+    "url": "https://github.com/picryl/react-recaptcha/issues"
   },
-  "homepage": "https://github.com/appleboy/react-recaptcha",
+  "homepage": "https://github.com/picryl/react-recaptcha",
   "devDependencies": {
     "babel-cli": "^6.8.0",
     "babel-core": "^6.3.26",
